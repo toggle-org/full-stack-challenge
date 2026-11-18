@@ -1,3 +1,5 @@
+> **Interview app:** see [esim-orders/](esim-orders/README.md). The apps below are not used.
+
 # Full-Stack Interview Challenge: VPN SaaS
 
 This repository contains:

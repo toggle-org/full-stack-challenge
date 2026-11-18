@@ -1,0 +1,7 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "declaration": false
+  },
+  "exclude": ["node_modules", "dist", "**/*spec.ts", "src/test-utils", "vitest.config.ts"]
+}
